@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilvioPietro
 - 💻 I’m working on Reinforcement Learning solutions applied to machines, TinyML, IOT, Agentive Technology.
-- 📫 How to reach me: silvio.m@tuta.io
+- 📫 How to reach me: silvio.monticelli@dicodata.it
 
 <!---
 SilvioPietro/SilvioPietro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
