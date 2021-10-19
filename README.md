@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SilvioPietro
-- 👀 I’m interested in Machine Learning solutions applied to physical devices, TinyML, IOT, Agentive Technology.
-- 🌱 I’m currently learning TinyML, Deep and Reinforcement learning.
+- 💻 I’m working on Reinforcement Learning solutions applied to machines, TinyML, IOT, Agentive Technology.
 - 📫 How to reach me: silvio.m@tuta.io
 
 <!---
