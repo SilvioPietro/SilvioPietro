@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SilvioPietro
-- 💻 I’m working on Reinforcement Learning solutions applied to machines, TinyML, IOT, Agentive Technology.
+- 💻 I’m working on Reinforcement Learning solutions applied to machine control, TinyML, IOT, Agentive Technology.
 - 📫 How to reach me: silvio.monticelli@dicodata.it
 
 <!---
